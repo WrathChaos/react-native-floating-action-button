@@ -28,7 +28,9 @@
   "peerDependencies": {
     "expo": ">= 27.x",
     "react": ">= 16.x",
-    "react-native": ">= 0.55.x"
+    "react-native": ">= 0.55.x",
+    "react-native-elements": ">= 0.19.x",
+    "react-native-material-ripple": ">+ 0.8.x"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0",
