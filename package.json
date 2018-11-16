@@ -1,5 +1,5 @@
 {
-  "name": "react-native-fab",
+  "name": "react-native-floating-action-button",
   "version": "0.0.1",
   "description": "Fully customizable Floating Action Button for React Native.",
   "keywords": [
@@ -14,9 +14,9 @@
     "rn"
   ],
   "homepage": "https://www.freakycoder.com",
-  "bugs": "https://github.com/WrathChaos/react-native-fab/issues",
+  "bugs": "https://github.com/WrathChaos/react-native-floating-action-button/issues",
   "main": "./lib/src/components/FloatingActionButton.js",
-  "repository": "git@github.com:WrathChaos/react-native-fab.git",
+  "repository": "git@github.com:WrathChaos/react-native-floating-action-button.git",
   "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
   "license": "MIT",
   "scripts": {
