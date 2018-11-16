@@ -1,5 +1,5 @@
 {
-  "name": "empty-project-template",
+  "name": "react-native-floating-action-button-example",
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "scripts": {

@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "examples",
-    "description": "This project is really great.",
-    "slug": "examples",
+    "name": "react-native-floating-action-button-example",
+    "description": "Fully customizable Floating Action Button for React Native.",
+    "slug": "react-native-floating-action-button-example",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": ["ios", "android"],
@@ -17,9 +17,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     }
