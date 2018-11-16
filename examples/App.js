@@ -64,11 +64,8 @@ export default class App extends React.Component {
           <FloatingActionButton
             iconName="my-location"
             iconType="material-icon"
-            iconColor="blue"
             text="Location"
-            textColor="blue"
-            shadowColor="blue"
-            rippleColor="blue"
+            shadowColor="rgba(110, 157, 251, 1.0)"
           />
         </View>
         <Text style={{ left: 32, top: 12, fontStyle: "italic" }}>
