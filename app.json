@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "react-native-fab",
-    "description": "This project is really great.",
-    "slug": "react-native-fab",
+    "name": "react-native-floating-action-button",
+    "description": "Fully customizable Floating Action Button for React Native.",
+    "slug": "react-native-floating-action-button",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": ["ios", "android"],
@@ -17,9 +17,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     }

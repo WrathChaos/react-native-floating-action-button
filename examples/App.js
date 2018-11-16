@@ -1,6 +1,6 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
-import FloatingActionButton from "react-native-fab";
+import FloatingActionButton from "react-native-floating-action-button";
 
 export default class App extends React.Component {
   render() {
