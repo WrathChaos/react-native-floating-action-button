@@ -49,6 +49,9 @@ npm i react-native-floating-action-button
 | containerStyle              |   style   |       containerStyle        | use this to change the main container style (Do not recommended!)                                                                        |
 | shadowStyle                 |   style   |         shadowStyle         | changes the FAB's current shadow style, you can implement your own shadow                                                                |
 | materialShadow              |  boolean  |            false            | makes the special material shadow style like shown as example                                                                            |
+| size                        |  number   |             50              | use this to change FAB's whole size                                                                                                      |
+| backgroundColor             |   color   |           #FBFBFD           | use this to change the main FAB's color                                                                                                  |
+|                             |
 | shadowColor                 |   color   |           #B2B2B2           | use this to change FAB's shadow color                                                                                                    |
 | rippleColor                 |   color   |  rgba(110, 157, 251, 1.0)   | use this to change FAB's ripple color                                                                                                    |
 | rippleContainerBorderRadius |  number   |             35              | use this to change FAB's ripple container border radius if you have a custom container style with different radius, you need to use this |
