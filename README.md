@@ -3,8 +3,10 @@
 Fully customizable floating action button component for React Native.
 
 [![npm version](https://img.shields.io/npm/v/react-native-floating-action-button.svg)](https://www.npmjs.com/package/react-native-floating-action-button)
-[![npm downloads](https://img.shields.io/npm/dm/react-native-floating-action-button.svg)](https://www.npmjs.com/package/react-native-floating-action-button)
+[![npm](https://img.shields.io/npm/dt/react-native-floating-action-button.svg)](https://www.npmjs.org/package/react-native-floating-action-button)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-yellow.svg)
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 <p align="center">
 <img alt="React Native Floating Action Button" src="https://github.com/WrathChaos/react-native-floating-action-button/blob/master/assets/Screenshots/example.png" width="49.7%"/>

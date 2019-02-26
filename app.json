@@ -4,7 +4,7 @@
     "description": "Fully customizable Floating Action Button for React Native.",
     "slug": "react-native-floating-action-button",
     "privacy": "public",
-    "sdkVersion": "31.0.0",
+    "sdkVersion": "32.0.0",
     "platforms": ["ios", "android"],
     "version": "1.0.0",
     "orientation": "portrait",
