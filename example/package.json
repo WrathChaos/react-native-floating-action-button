@@ -13,7 +13,7 @@
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
     "react-native-elements": "^0.19.1",
-    "react-native-floating-action-button": "^0.0.5",
+    "react-native-floating-action-button": "^0.1.0",
     "react-native-material-ripple": "^0.8.0"
   },
   "devDependencies": {
