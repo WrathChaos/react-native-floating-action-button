@@ -10,25 +10,22 @@ export default class App extends React.Component {
         <View style={styles.column}>
           <FloatingActionButton
             iconName="plus"
-            iconType="feather"
+            iconType="AntDesign"
             textDisable
-            onPress={() => {
-              console.log("onPress :O");
-            }}
           />
           <FloatingActionButton
             iconName="edit"
-            iconType="material-icons"
+            iconType="MaterialIcons"
             textDisable
           />
           <FloatingActionButton
             iconName="controller-play"
-            iconType="entypo"
+            iconType="Entypo"
             textDisable
           />
           <FloatingActionButton
             iconName="pause"
-            iconType="foundation"
+            iconType="Foundation"
             textDisable
           />
         </View>
@@ -36,7 +33,7 @@ export default class App extends React.Component {
         <View style={styles.column}>
           <FloatingActionButton
             iconName="star"
-            iconType="font-awesome"
+            iconType="FontAwesome"
             iconColor="green"
             text="Star"
             textColor="green"
@@ -45,7 +42,7 @@ export default class App extends React.Component {
           />
           <FloatingActionButton
             iconName="heart"
-            iconType="foundation"
+            iconType="Foundation"
             iconColor="red"
             text="Heart"
             textColor="red"
@@ -54,7 +51,7 @@ export default class App extends React.Component {
           />
           <FloatingActionButton
             iconName="md-share"
-            iconType="ionicon"
+            iconType="Ionicons"
             iconColor="purple"
             text="Share"
             textColor="purple"
@@ -63,7 +60,7 @@ export default class App extends React.Component {
           />
           <FloatingActionButton
             iconName="my-location"
-            iconType="material-icon"
+            iconType="MaterialIcons"
             text="Location"
             shadowColor="rgba(110, 157, 251, 1.0)"
           />
@@ -74,7 +71,7 @@ export default class App extends React.Component {
         <View style={styles.column}>
           <FloatingActionButton
             iconName="star"
-            iconType="font-awesome"
+            iconType="FontAwesome"
             iconColor="green"
             text="Star"
             textColor="green"
@@ -84,7 +81,7 @@ export default class App extends React.Component {
           />
           <FloatingActionButton
             iconName="heart"
-            iconType="foundation"
+            iconType="Foundation"
             iconColor="red"
             text="Heart"
             textColor="red"
@@ -94,7 +91,7 @@ export default class App extends React.Component {
           />
           <FloatingActionButton
             iconName="md-share"
-            iconType="ionicon"
+            iconType="Ionicons"
             iconColor="purple"
             text="Share"
             textColor="purple"
@@ -104,7 +101,7 @@ export default class App extends React.Component {
           />
           <FloatingActionButton
             iconName="my-location"
-            iconType="material-icon"
+            iconType="MaterialIcons"
             iconColor="blue"
             text="Location"
             textColor="blue"

@@ -37,10 +37,10 @@ npm i react-native-floating-action-button
 
 ```ruby
 <FloatingActionButton
-    iconName="md-share"
-    iconType="ionicon"
-    iconColor="purple"
     text="Share"
+    iconName="md-share"
+    iconType="Ionicons"
+    iconColor="purple"
     textColor="purple"
     shadowColor="purple"
     rippleColor="purple"
