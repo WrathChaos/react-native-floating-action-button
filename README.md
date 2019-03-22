@@ -21,6 +21,18 @@ Add the dependency:
 npm i react-native-floating-action-button
 ```
 
+## Peer Dependencies
+
+##### IMPORTANT! You need install them.
+
+```
+    "react": ">= 16.x",
+    "react-native": ">= 0.55.x",
+    "react-native-vector-icons": ">= 6,x,x",
+    "react-native-material-ripple": ">= 0.8.x",
+    "react-native-dynamic-vector-icons": ">= x.x.x"
+```
+
 ## Basic Usage
 
 ```ruby
@@ -46,27 +58,27 @@ npm i react-native-floating-action-button
 
 ##### BottomBar:
 
-| Property                    |   Type    |           Default           | Description                                                                                                                              |
-| --------------------------- | :-------: | :-------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| style                       |   style   |          container          | use this to change the main FAB's style                                                                                                  |
-| containerStyle              |   style   |       containerStyle        | use this to change the main container style (Do not recommended!)                                                                        |
-| shadowStyle                 |   style   |         shadowStyle         | changes the FAB's current shadow style, you can implement your own shadow                                                                |
-| materialShadow              |  boolean  |            false            | makes the special material shadow style like shown as example                                                                            |
-| size                        |  number   |             50              | use this to change FAB's whole size                                                                                                      |
-| backgroundColor             |   color   |           #FBFBFD           | use this to change the main FAB's color                                                                                                  |
+| Property                    |   Type    |         Default          | Description                                                                                                                              |
+| --------------------------- | :-------: | :----------------------: | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| style                       |   style   |        container         | use this to change the main FAB's style                                                                                                  |
+| containerStyle              |   style   |      containerStyle      | use this to change the main container style (Do not recommended!)                                                                        |
+| shadowStyle                 |   style   |       shadowStyle        | changes the FAB's current shadow style, you can implement your own shadow                                                                |
+| materialShadow              |  boolean  |          false           | makes the special material shadow style like shown as example                                                                            |
+| size                        |  number   |            50            | use this to change FAB's whole size                                                                                                      |
+| backgroundColor             |   color   |         #FBFBFD          | use this to change the main FAB's color                                                                                                  |
 |                             |
-| shadowColor                 |   color   |           #B2B2B2           | use this to change FAB's shadow color                                                                                                    |
-| rippleColor                 |   color   |  rgba(110, 157, 251, 1.0)   | use this to change FAB's ripple color                                                                                                    |
-| rippleContainerBorderRadius |  number   |             35              | use this to change FAB's ripple container border radius if you have a custom container style with different radius, you need to use this |
-| disabled                    |  boolean  |            false            | disabled the ripple effect                                                                                                               |
-| iconName                    |  string   |     null(will be fixed)     | changes the icon itself with using react-native-vectors                                                                                  |
-| iconType                    |  string   |     null(will be fixed)     | changes the icon itself with using react-native-vectors                                                                                  |
-| iconSize                    |  number   |             30              | changes the inside of the icon's size                                                                                                    |
-| iconComponent               | component | Icon(react-native-elements) | it uses the react-native-element's Icon component, you can implement your own component rather than Icon                                 |
-| textDisable                 |  boolean  |            false            | use this to change disable bottom text, if you just need to use button itself                                                            |
-| text                        |  string   |            null             | use this to change below text                                                                                                            |
-| textColor                   |  colors   |  rgba(110, 157, 251, 1.0)   | use this to change below text color                                                                                                      |
-| textStyle                   |   style   |          textStyle          | use this to change below text style itself                                                                                               |
+| shadowColor                 |   color   |         #B2B2B2          | use this to change FAB's shadow color                                                                                                    |
+| rippleColor                 |   color   | rgba(110, 157, 251, 1.0) | use this to change FAB's ripple color                                                                                                    |
+| rippleContainerBorderRadius |  number   |            35            | use this to change FAB's ripple container border radius if you have a custom container style with different radius, you need to use this |
+| disabled                    |  boolean  |          false           | disabled the ripple effect                                                                                                               |
+| iconName                    |  string   |   null(will be fixed)    | changes the icon itself with using react-native-vectors                                                                                  |
+| iconType                    |  string   |   null(will be fixed)    | changes the icon itself with using react-native-vectors                                                                                  |
+| iconSize                    |  number   |            30            | changes the inside of the icon's size                                                                                                    |
+| iconComponent               | component |           Icon           | it uses the react-native-dynamic-vector-icons' Icon component, you can implement your own component rather than Icon                     |
+| textDisable                 |  boolean  |          false           | use this to change disable bottom text, if you just need to use button itself                                                            |
+| text                        |  string   |           null           | use this to change below text                                                                                                            |
+| textColor                   |  colors   | rgba(110, 157, 251, 1.0) | use this to change below text color                                                                                                      |
+| textStyle                   |   style   |        textStyle         | use this to change below text style itself                                                                                               |
 
 ### Credits
 
