@@ -1,6 +1,6 @@
 {
   "name": "react-native-floating-action-button",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Fully customizable Floating Action Button for React Native.",
   "keywords": [
     "react-native",
@@ -28,7 +28,7 @@
   "peerDependencies": {
     "react": ">= 16.x",
     "react-native": ">= 0.55.x",
-    "react-native-vector-icons": ">= 6,x,x",
+    "react-native-vector-icons": ">= 6.x.x",
     "react-native-material-ripple": ">= 0.8.x",
     "react-native-dynamic-vector-icons": ">= x.x.x"
   },
