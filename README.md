@@ -79,6 +79,12 @@ npm i react-native-floating-action-button
 | text                        |  string   |           null           | use this to change below text                                                                                                            |
 | textColor                   |  colors   | rgba(110, 157, 251, 1.0) | use this to change below text color                                                                                                      |
 | textStyle                   |   style   |        textStyle         | use this to change below text style itself                                                                                               |
+### ToDos
+
+- [x] LICENSE
+- [ ] New example with Screenshots!
+- [ ] Write an article about the lib on Medium
+                                                      |
 
 ### Credits
 
