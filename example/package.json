@@ -9,10 +9,10 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^31.0.2",
-    "react": "16.5.0",
+    "expo": "^34.0.4",
+    "react": "16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
-    "react-native-dynamic-vector-icons": "0.0.3",
+    "react-native-dynamic-vector-icons": "0.1.0",
     "react-native-floating-action-button": "^0.1.14",
     "react-native-material-ripple": "^0.8.0",
     "react-native-vector-icons": "^6.4.0"
