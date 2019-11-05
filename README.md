@@ -1,13 +1,14 @@
 # <img alt="React Native Bottom Bar" src="https://github.com/WrathChaos/react-native-floating-action-button/blob/master/assets/Screenshots/logo.png" width="1050"/>
 
-Fully customizable floating action button component for React Native.
+[![Battle Tested ✅](https://img.shields.io/badge/-Battle--Tested%20%E2%9C%85-03666e?style=for-the-badge)](https://github.com/WrathChaos/react-native-button)
 
-[![npm version](https://img.shields.io/npm/v/react-native-floating-action-button.svg)](https://www.npmjs.com/package/react-native-floating-action-button)
-[![npm](https://img.shields.io/npm/dt/react-native-floating-action-button.svg)](https://www.npmjs.org/package/react-native-floating-action-button)
-![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![Fully customizable material designed floating action button component for React Native.](https://img.shields.io/badge/-%20Fully%20customizable%20material%20designed%20floating%20action%20button%20component%20for%20React%20Native.-lightgrey)](https://github.com/WrathChaos/react-native-button)
 
+[![npm version](https://img.shields.io/npm/v/react-native-floating-action-button.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-floating-action-button)
+[![npm](https://img.shields.io/npm/dt/react-native-floating-action-button.svg?style=for-the-badge)](https://www.npmjs.org/package/react-native-floating-action-button)
+![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg?style=for-the-badge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=for-the-badge)](https://github.com/prettier/prettier)
 
 <p align="center">
 <img alt="React Native Floating Action Button" src="https://github.com/WrathChaos/react-native-floating-action-button/blob/master/assets/Screenshots/example.png" width="49.7%"/>
@@ -25,17 +26,17 @@ npm i react-native-floating-action-button
 
 ##### IMPORTANT! You need install them.
 
-```
-    "react": ">= 16.x",
-    "react-native": ">= 0.55.x",
-    "react-native-vector-icons": ">= 6,x,x",
-    "react-native-material-ripple": ">= 0.8.x",
-    "react-native-dynamic-vector-icons": ">= x.x.x"
+```json
+"react": ">= 16.x",
+"react-native": ">= 0.55.x",
+"react-native-vector-icons": ">= 6,x,x",
+"react-native-material-ripple": ">= 0.8.x",
+"react-native-dynamic-vector-icons": ">= x.x.x"
 ```
 
 ## Basic Usage
 
-```ruby
+```jsx
 <FloatingActionButton
     text="Share"
     iconName="md-share"
@@ -81,7 +82,7 @@ npm i react-native-floating-action-button
 | textStyle                   |   style   |        textStyle         | use this to change below text style itself                                                                                               |
 ### ToDos
 
-- [x] LICENSE
+- [x] ~~LICENSE~~
 - [ ] New example with Screenshots!
 - [ ] Write an article about the lib on Medium
                                                       |
