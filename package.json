@@ -1,6 +1,6 @@
 {
   "name": "react-native-floating-action-button",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Fully customizable Floating Action Button for React Native.",
   "keywords": [
     "react-native",
@@ -19,12 +19,6 @@
   "repository": "git@github.com:WrathChaos/react-native-floating-action-button.git",
   "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
   "license": "MIT",
-  "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "eject": "expo eject"
-  },
   "peerDependencies": {
     "react": ">= 16.x",
     "react-native": ">= 0.55.x",
