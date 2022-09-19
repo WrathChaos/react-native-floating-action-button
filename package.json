@@ -29,6 +29,6 @@
   "devDependencies": {
     "@types/expo": "^33.0.1",
     "@types/react": "^18.0.0",
-    "@types/react-native": "^0.69.0"
+    "@types/react-native": "^0.70.1"
   }
 }
